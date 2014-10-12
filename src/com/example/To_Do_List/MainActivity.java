@@ -127,7 +127,7 @@ public class MainActivity extends Activity {
         });
 
     }
-    // sync stuff??
+    // sync stuff???
 
     private class ListItem {
         public String name;

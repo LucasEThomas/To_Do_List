@@ -1,7 +1,6 @@
 package com.example.To_Do_List;
 
-// no changes!!
-//CHANGES!!
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.ContextMenu;
